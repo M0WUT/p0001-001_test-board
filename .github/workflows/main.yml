@@ -11,6 +11,7 @@ jobs:
     steps:
       - name: Everything
         run: |
+          apt install -y software-properties-common
           add-apt-repository multiverse
           apt update
           apt install -y python3-pip protobuf-compiler xvfb tree fontconfig ttf-mscorefonts-installer
