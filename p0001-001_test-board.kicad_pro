@@ -639,6 +639,10 @@
     [
       "acdb93e6-9aa6-4a78-8a68-9d0ae3318f45",
       "Root"
+    ],
+    [
+      "e55fecf0-fe73-4a9a-b643-20a0ad017649",
+      "Low Power Regulators"
     ]
   ],
   "text_variables": {
