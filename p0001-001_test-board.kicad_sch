@@ -884,6 +884,52 @@
 			)
 		)
 	)
+	(sheet
+		(at 115.57 102.87)
+		(size 165.1 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "24afa6e8-39b0-4dce-9489-2a9d1288757f")
+		(property "Sheetname" "Low Power Regulators"
+			(at 115.57 102.1584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Schematics\\low_power_regulators.kicad_sh.kicad_sch"
+			(at 115.57 165.6846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "p0001-001_test-board"
+				(path "/acdb93e6-9aa6-4a78-8a68-9d0ae3318f45"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
