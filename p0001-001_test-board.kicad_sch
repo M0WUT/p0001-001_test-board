@@ -911,7 +911,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Schematics\\low_power_regulators.kicad_sh.kicad_sch"
+		(property "Sheetfile" "Schematics/low_power_regulators.kicad_sh.kicad_sch"
 			(at 115.57 165.6846 0)
 			(show_name no)
 			(do_not_autoplace no)

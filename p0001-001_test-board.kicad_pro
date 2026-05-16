@@ -628,7 +628,7 @@
     "top_level_sheets": [
       {
         "filename": "p0001-001_test-board.kicad_sch",
-        "name": "Root",
+        "name": "Test",
         "uuid": "acdb93e6-9aa6-4a78-8a68-9d0ae3318f45"
       }
     ],
@@ -638,7 +638,7 @@
   "sheets": [
     [
       "acdb93e6-9aa6-4a78-8a68-9d0ae3318f45",
-      "Root"
+      "Test"
     ],
     [
       "24afa6e8-39b0-4dce-9489-2a9d1288757f",
